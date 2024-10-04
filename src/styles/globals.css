@@ -45,6 +45,7 @@ a {
   left: 0;
   padding: 33px 0 25px 0;
   background-color: #fff;
+  z-index: 15;
 
   .headermainalignment {
     display: flex;
