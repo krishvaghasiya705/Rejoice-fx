@@ -1,9 +1,11 @@
-
+import styles from "./about.module.scss"
 
 export default function About() {
   return (
     <>
-      about page
+      <div className={styles.aboutmain}>
+        about page
+      </div>
     </>
   );
 }
