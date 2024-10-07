@@ -22,10 +22,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/algodevelopment": [
+    "/forexcrm": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/algodevelopment.js"
+      "static/chunks/pages/forexcrm.js"
     ]
   },
   "ampFirstPages": []

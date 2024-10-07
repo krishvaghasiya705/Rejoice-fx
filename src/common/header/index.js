@@ -31,7 +31,7 @@ export default function Header() {
                     </div>
                     <div className="headeralllinks">
                         <div className="linkContainer">
-                            <Link href={"/"}>Forex CRM</Link>
+                            <Link href={"/forexcrm"}>Forex CRM</Link>
                         </div>
 
                         {/* Forex Licenses Dropdown */}
